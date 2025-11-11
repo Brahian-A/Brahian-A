@@ -39,7 +39,6 @@ Passionate about solving end-to-end problems—from the **ESP32 and sensors** la
 ---
 
 ### 🚀 Featured projects
-> Replace the repo links (`#`) with your actual repositories when ready.
 
 #### 🌿 Smart Greenhouse — IoT & Backend
 - **Stack:** FastAPI, SQLAlchemy, MQTT, ESP32, Raspberry Pi  
