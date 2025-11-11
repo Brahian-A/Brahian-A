@@ -71,9 +71,14 @@ Passionate about solving end-to-end problems—from the **ESP32 and sensors** la
 ### 🌐 Connect with Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/brahian-amaral-7b066634b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  - Email: **eduardo.bus1@hotmail.com**
+  <a href="https://www.linkedin.com/in/brahian-amaral-7b066634b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:eduardo.bus1@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-8B89CC?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
 </div>
+
 
 
 
