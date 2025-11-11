@@ -68,13 +68,12 @@ Passionate about solving end-to-end problems—from the **ESP32 and sensors** la
 
 ---
 
-### 📫 Contact
-- Email: **eduardo.bus1@hotmail.com**  
-- LinkedIn: **/in/brahian-amaral-7b066634b**  
-- GitHub: **@Brahian-A**
+### 🌐 Connect with Me  
 
-<!-- Tips:
-1) Keep repos pinned (Settings → “Pinned repositories”) for the three projects above.
-2) Add short, clear READMEs to each repo: problem, stack, features, and how to run.
-3) Use issues/projects for a professional touch (roadmap, TODOs).
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/brahian-amaral-7b066634b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  - Email: **eduardo.bus1@hotmail.com**
+</div>
+
+
+
