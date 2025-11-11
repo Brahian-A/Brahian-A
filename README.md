@@ -44,7 +44,7 @@ Passionate about solving end-to-end problems—from the **ESP32 and sensors** la
 - **Stack:** FastAPI, SQLAlchemy, MQTT, ESP32, Raspberry Pi  
 - **What it does:** Modular greenhouse with real-time monitoring and automated control (pumps, fans, lights).  
 - **Focus:** Sensor/actuator abstraction, MQTT topics design, API endpoints, DB models.  
-- 🔗 Repo: [Smart Greenhouse](#)
+- 🔗 Landing page: *https://growcontroller.app*
 
 #### 🏠 HBnB (Airbnb clone) — Backend
 - **Stack:** Flask, Python, SQLAlchemy  
