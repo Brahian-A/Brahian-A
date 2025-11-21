@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:eduardo.bus1@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eduardo.bus1%40hotmail.com-informational?style=flat-square"></a>
+  <a href="mailto:brahianamaral95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-brahianamaral95%40gmail.com-informational?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/brahian-amaral-7b066634b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brahian%20Amaral-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Brahian-A" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Brahian--A-181717?style=flat-square&logo=github"></a>
 </p>
