@@ -61,6 +61,3 @@ Control de ingreso y egreso de vehículos, finanzas y comunicación con clientes
 ## 📫 Contacto
 
 📧 [brahianamaral95@gmail.com](mailto:brahianamaral95@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/brahian-amaral-7b066634b) · 📍 Uruguay
-  Una buena captura por producto sube muchísimo la percepción.
-- Cuando tengas versión EN, duplicá este README como README.en.md.
--->
