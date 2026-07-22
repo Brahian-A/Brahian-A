@@ -19,7 +19,7 @@ SaaS multi-tenant para que bares, pizzerías y restaurantes reciban pedidos **si
 - Aislamiento de datos por local con **Row Level Security**
 - **Panel de cocina (KDS) en tiempo real** — los pedidos entran sin recargar
 - 3 planes de suscripción con funcionalidades *gated*, sincronizados por **webhooks**
-- 🔗 **[Ver en vivo](https://app-pizzeria-chi.vercel.app)** · [Demo](https://app-pizzeria-chi.vercel.app/demo)
+- 🔗 **[Ver en vivo](https://app-pizzeria-chi.vercel.app)**
 
 ### 🏋️ GymAdmin — Gestión para gimnasios
 Reemplaza Excel y libretas: miembros, cobros, rutinas y un **portal web para cada miembro**.
