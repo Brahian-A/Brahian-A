@@ -30,21 +30,21 @@ Reemplaza Excel y libretas: miembros, cobros, rutinas y un **portal web para cad
 
 ### 🏗️ Galpones App — App a medida para un cliente real
 Desarrollada para una empresa constructora de galpones que tenía **todos sus datos en las notas del celular**.
-- **Stack:** Next.js, Supabase
+- **Stack:** JavaScript (ES Modules, sin framework ni build step), Supabase (Auth · Postgres · RLS), Vercel
 - Gestión de datos estructurada y centralizada, según la operativa real de la empresa
 - 🔗 **[Ver en vivo](https://galpones-app.vercel.app)**
 
 ### 🚗 Detailing App — Gestión para talleres de detailing
 Control de ingreso y egreso de vehículos, finanzas y comunicación con clientes.
-- **Stack:** Next.js, Supabase
+- **Stack:** JavaScript (Vite), Supabase (Postgres + funciones PL/pgSQL)
 - 🔗 **[Ver en vivo](https://car-detaling-app.vercel.app)**
 
 ---
 
 ## 🛠️ Stack
 
-**Frontend:** React · Next.js (App Router) · JavaScript · Tailwind CSS · HTML · CSS
-**Backend:** Node.js · Supabase · PostgreSQL · APIs REST · Python · FastAPI · Flask
+**Frontend:** React · Next.js (App Router) · JavaScript (ES Modules) · Vite · Tailwind CSS · HTML · CSS
+**Backend:** Node.js · Supabase · PostgreSQL · PL/pgSQL · APIs REST · Python · FastAPI · Flask
 **Arquitectura:** multi-tenant · Row Level Security · Supabase Realtime · modelado de datos
 **Pagos e integraciones:** Lemon Squeezy (webhooks) · WhatsApp · notificaciones push
 **Deploy y herramientas:** Vercel · Git · GitHub
@@ -61,3 +61,6 @@ Control de ingreso y egreso de vehículos, finanzas y comunicación con clientes
 ## 📫 Contacto
 
 📧 [brahianamaral95@gmail.com](mailto:brahianamaral95@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/brahian-amaral-7b066634b) · 📍 Uruguay
+  Una buena captura por producto sube muchísimo la percepción.
+- Cuando tengas versión EN, duplicá este README como README.en.md.
+-->
