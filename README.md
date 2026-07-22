@@ -1,84 +1,63 @@
-<!-- Profile README — Brahian Amaral -->
-<h1 align="center">Hi, I'm Brahian Amaral 👋</h1>
-<p align="center">
-  Backend Developer • Electronics Technician • IoT Developer
-</p>
+# Hola, soy Brahian Amaral 👋
 
-<p align="center">
-  <a href="mailto:brahianamaral95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-brahianamaral95%40gmail.com-informational?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/brahian-amaral-7b066634b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brahian%20Amaral-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Brahian-A" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Brahian--A-181717?style=flat-square&logo=github"></a>
-</p>
+### Full Stack Developer · Next.js · React · Supabase
+
+Construyo y publico **productos SaaS de punta a punta**: arquitectura multi-tenant, autenticación, pagos por suscripción y tiempo real. Del modelo de datos a la interfaz, trabajando de forma autónoma.
+
+[![Email](https://img.shields.io/badge/Email-brahianamaral95@gmail.com-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:brahianamaral95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahian%20Amaral-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahian-amaral-7b066634b)
 
 ---
 
-### 👨‍💻 About me
-I’m a Backend Developer and Electronics Technician focused on building **robust APIs**, **scalable backend architectures**, and **IoT systems** that connect devices with real-time data.  
-Passionate about solving end-to-end problems—from the **ESP32 and sensors** layer up to the **FastAPI/Flask** backend and data persistence.
+## 🚀 Productos que construí y desplegué
 
-- 🔭 Currently improving: **FastAPI**, **SQLAlchemy** patterns, MQTT integrations
-- 🧩 Interests: IoT automation, embedded + cloud bridges, clean architecture
-- 🤝 Open to roles in **Backend** and **IoT/Embedded integrations**
+Aplicaciones reales, en producción, hechas por mí solo. *(El código vive en repos privados — puedo compartir un recorrido guiado en una entrevista.)*
 
----
+### 🍕 AlToque — Pedidos online para locales de comida
+SaaS multi-tenant para que bares, pizzerías y restaurantes reciban pedidos **sin pagar comisiones** a intermediarios.
+- **Stack:** Next.js (App Router), Supabase (Postgres, RLS, Realtime), Lemon Squeezy
+- Aislamiento de datos por local con **Row Level Security**
+- **Panel de cocina (KDS) en tiempo real** — los pedidos entran sin recargar
+- 3 planes de suscripción con funcionalidades *gated*, sincronizados por **webhooks**
+- 🔗 **[Ver en vivo](https://app-pizzeria-chi.vercel.app)** · [Demo](https://app-pizzeria-chi.vercel.app/demo)
 
-### 🛠️ Tech stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+### 🏋️ GymAdmin — Gestión para gimnasios
+Reemplaza Excel y libretas: miembros, cobros, rutinas y un **portal web para cada miembro**.
+- **Stack:** Next.js, Supabase, Lemon Squeezy
+- Facturación por suscripción y **recordatorios por WhatsApp**
+- Branding personalizado (white-label) y dashboard financiero diario
+- 🔗 **[Ver en vivo](https://admin-gym-app-2026.vercel.app)**
 
----
+### 🏗️ Galpones App — App a medida para un cliente real
+Desarrollada para una empresa constructora de galpones que tenía **todos sus datos en las notas del celular**.
+- **Stack:** Next.js, Supabase
+- Gestión de datos estructurada y centralizada, según la operativa real de la empresa
+- 🔗 **[Ver en vivo](https://galpones-app.vercel.app)**
 
-### 🚀 Featured projects
-
-#### 🌿 Smart Greenhouse — IoT & Backend
-- **Stack:** FastAPI, SQLAlchemy, MQTT, ESP32, Raspberry Pi  
-- **What it does:** Modular greenhouse with real-time monitoring and automated control (pumps, fans, lights).  
-- **Focus:** Sensor/actuator abstraction, MQTT topics design, API endpoints, DB models.  
-- 🔗 Landing page: *https://growcontroller.app*
-
-#### 🏠 HBnB (Airbnb clone) — Backend
-- **Stack:** Flask, Python, SQLAlchemy  
-- **What it does:** Functional clone of Airbnb backend logic: REST CRUD, persistence, models.  
-- **Focus:** ORM design, services layer, clean endpoints.  
-- 🔗 Repo: [HBnB](#)
-
-#### 💻 Simple Shell — C
-- **Stack:** C (Holberton)  
-- **What it does:** Unix-like shell implementing parsing, process management, syscalls.  
-- **Focus:** Low-level fundamentals, modular design.  
-- 🔗 Repo: [Simple Shell](#)
+### 🚗 Detailing App — Gestión para talleres de detailing
+Control de ingreso y egreso de vehículos, finanzas y comunicación con clientes.
+- **Stack:** Next.js, Supabase
+- 🔗 **[Ver en vivo](https://car-detaling-app.vercel.app)**
 
 ---
 
-### 📊 Stats (dark mode)
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brahian-A&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brahian-A&layout=compact&theme=dark&hide_border=true" />
-</p>
+## 🛠️ Stack
+
+**Frontend:** React · Next.js (App Router) · JavaScript · Tailwind CSS · HTML · CSS
+**Backend:** Node.js · Supabase · PostgreSQL · APIs REST · Python · FastAPI · Flask
+**Arquitectura:** multi-tenant · Row Level Security · Supabase Realtime · modelado de datos
+**Pagos e integraciones:** Lemon Squeezy (webhooks) · WhatsApp · notificaciones push
+**Deploy y herramientas:** Vercel · Git · GitHub
+**Además:** C++ · ESP32 · MQTT *(IoT / sistemas embebidos)*
 
 ---
 
-### 🌐 Connect with Me  
+## 🎓 Formación
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/brahian-amaral-7b066634b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:eduardo.bus1@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-8B89CC?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+**Holberton School Uruguay** — Ingeniería de Software (2024–2025)
 
+---
 
+## 📫 Contacto
 
-
+📧 [brahianamaral95@gmail.com](mailto:brahianamaral95@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/brahian-amaral-7b066634b) · 📍 Uruguay
